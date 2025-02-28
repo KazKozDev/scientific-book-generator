@@ -15,7 +15,7 @@
 
 # Scientific Book Generator
 
-A powerful tool that generates complete scientific books on any topic using Large Language Models (LLMs) via Ollama. Perfect for researchers, educators, publishers, and knowledge enthusiasts who need to quickly produce scientific literature for reference, teaching, or exploratory purposes. The tool significantly reduces the time and effort traditionally required for scientific book creation while maintaining accuracy and depth of content.
+A powerful tool that generates complete scientific books on any topic using Large Language Models (LLMs) via Ollama. Perfect for researchers, educators, publishers, and knowledge enthusiasts who need to quickly produce scientific literature for reference, teaching, or exploratory purposes. The tool significantly reduces the time and effort traditionally required for scientific materials creation while maintaining accuracy and depth of content.
 
 ## Features
 
